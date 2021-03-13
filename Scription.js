@@ -3,8 +3,8 @@ const puppeteer = require("puppeteer");
 
 const MAJOR = "BA";
 const COURSE = "IM3001";
-const username = "phuc.vo_khmt2019";
-const password = "daylamatkhau";
+const username = "";
+const password = "";
 
 (async () => {
   try {
